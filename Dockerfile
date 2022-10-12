@@ -1,3 +1,3 @@
-FROM  --platform linux/amd64  nginx
+FROM  --platform=linux/amd64  nginx
 
 EXPOSE 80
